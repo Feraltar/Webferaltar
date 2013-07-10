@@ -1,3 +1,3 @@
 Webferaltar
 ===========
-Sistema de emails.
+Sistema de emails para web y móviles.
